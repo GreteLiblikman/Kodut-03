@@ -1,0 +1,7 @@
+C:\Users\Grete\source\repos\Magic 8 Ball\Magic 8 Ball\bin\Debug\Magic 8 Ball.exe.config
+C:\Users\Grete\source\repos\Magic 8 Ball\Magic 8 Ball\bin\Debug\Magic 8 Ball.exe
+C:\Users\Grete\source\repos\Magic 8 Ball\Magic 8 Ball\bin\Debug\Magic 8 Ball.pdb
+C:\Users\Grete\source\repos\Magic 8 Ball\Magic 8 Ball\obj\Debug\Magic 8 Ball.csprojResolveAssemblyReference.cache
+C:\Users\Grete\source\repos\Magic 8 Ball\Magic 8 Ball\obj\Debug\Magic 8 Ball.csproj.CoreCompileInputs.cache
+C:\Users\Grete\source\repos\Magic 8 Ball\Magic 8 Ball\obj\Debug\Magic 8 Ball.exe
+C:\Users\Grete\source\repos\Magic 8 Ball\Magic 8 Ball\obj\Debug\Magic 8 Ball.pdb
